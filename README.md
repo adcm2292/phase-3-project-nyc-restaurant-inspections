@@ -40,3 +40,8 @@ We have been hired by the NYS DOH to analize the current status of Restaurant In
 * With our Test Data, our model predicted about 22% of violations as False Negatives.
 * Ideally, we want 'recall' high and 'precision' low in the sense that it will be better to predict a CriticalFlag as positive when it's negative.
 * Based on the Inspection Type and Grade an establishment gets, we can predict the likelihood of Critical violations.
+
+### Future Work
+
+* Explore new methods to tune and improve our model.
+* This dataset offers a lot of opportunity for analysis.
