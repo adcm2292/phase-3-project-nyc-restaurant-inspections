@@ -21,6 +21,7 @@ We have been hired by the NYS DOH to analize the current status of Restaurant In
 * Top 10 Most Common Violations
 * Top 10 Chain Establishments with the most Violations
 * Critical Flags
+* ANOVA Test 2019: Average number of Violations by Grading
 
 ### Logistic Regression Model
 
