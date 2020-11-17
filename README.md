@@ -46,8 +46,7 @@ We have been hired by the NYS DOH to analize the current status of Restaurant In
 * In real life, it is very unlikely for an eatery to have no violations at all during service. It is virtually impossible.
 * The important thing is to differentiate which of these violations could cause eaters to get sick.
 * For our problem, we want to keep False Negatives as low as possible, since we never want to predict a True Critical Flag as Non-Critical.
-* With our Test Data, our model predicted about 22% of violations as False Negatives.
-* Ideally, we want 'recall' high and 'precision' low in the sense that it will be better to predict a CriticalFlag as positive when it's negative.
+* Our best model predicted 20.55% of violations as False Negatives.
 * Based on the Inspection Type and Grade an establishment gets, we can predict the likelihood of Critical violations.
 
 ### Future Work
