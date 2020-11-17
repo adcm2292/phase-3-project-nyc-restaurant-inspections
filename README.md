@@ -23,10 +23,19 @@ We have been hired by the NYS DOH to analize the current status of Restaurant In
 * Critical Flags
 * ANOVA Test 2019: Average number of Violations by Grading
 
-### Logistic Regression Model
+### Modeling
 
 * We have no numerical features. 
 * We transformed all of them in order to make them readable by ML models.
+* 4 models were built for our case problem:
+
+ #### * Logistic Regression 
+ #### * Decision Trees:
+ * SelectKBest 
+ * Vanilla 
+ #### * Random Forest
+* Surprisingly a Vanilla Decision Tree was the best performer.
+
 
 ### Conclusions
 
