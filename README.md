@@ -29,11 +29,11 @@ We have been hired by the NYS DOH to analize the current status of Restaurant In
 * We transformed all of them in order to make them readable by ML models.
 * 4 models were built for our case problem:
 
- #### * Logistic Regression 
- #### * Decision Trees:
- * SelectKBest 
- * Vanilla 
- #### * Random Forest
+ * #### Logistic Regression 
+ * #### Decision Trees:
+     * SelectKBest 
+     * Vanilla 
+ * #### Random Forest
 * Surprisingly a Vanilla Decision Tree was the best performer.
 
 
