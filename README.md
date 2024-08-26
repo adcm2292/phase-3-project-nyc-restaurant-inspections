@@ -5,7 +5,7 @@ Welcome to Our Repo!
 ### Business Problem
 
 We have been hired by the NYS DOH to analize the current status of Restaurant Inspections in New York City. They are interested in automating and improving the process of Inspections to some degree and we have been tasked with:
-   * Analizing the data to obtain relelvant information.
+   * Analizing the data to obtain relevant information.
    * Finding patterns that will help us understand how this is possible.
    * Finding a viable solution to our problem.
 
